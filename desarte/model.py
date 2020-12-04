@@ -14,8 +14,7 @@ class Model(metaclass=ABCMeta):
     "transmit()", "init()" y "receive()", estos dos ultimos son
     metodos abstractos que deben implementarse en la aplicacion """
 
-    # __metaclass__ = ABCMeta
-    # @abstractmethod
+
     def __init__(self):
         """ define el valor inicial de su reloj """
         self.clock = 0.0

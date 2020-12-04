@@ -1,0 +1,5 @@
+.env/
+build/
+desarte.egg-info/
+dist/
+
