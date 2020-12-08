@@ -1,1 +1,7 @@
-Simulador de eventos discretos en Python
+Paquete PyPi de simulador de eventos discretos.
+
+Utiliza el paquete "desarte":
+```
+pip install desarte
+```
+
